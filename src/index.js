@@ -1,2 +1,2 @@
 console.log ('index.js');
-console.log ('Practise Version 1');
+console.log ('Practise Version 2');
